@@ -1,2 +1,2 @@
-# explit-prediction
+# Exploit Prediction
 Follow up EPSS
