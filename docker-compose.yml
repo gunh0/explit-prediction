@@ -1,0 +1,9 @@
+version: "3"
+services:
+    exp-lab:
+        container_name: exploit-prediction
+        ports:
+            - "9999:8888"
+        build: .
+        volumes:
+            - ./:/root/jupyter
